@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/redeem-ui-minified/static/css/main.26122a4b.css",
-    "main.js": "/redeem-ui-minified/static/js/main.2d466261.js",
-    "static/js/139.0b795235.chunk.js": "/redeem-ui-minified/static/js/139.0b795235.chunk.js",
+    "main.js": "/redeem-ui-minified/static/js/main.3cb243db.js",
+    "static/js/139.beff9b84.chunk.js": "/redeem-ui-minified/static/js/139.beff9b84.chunk.js",
     "static/media/metamask.png": "/redeem-ui-minified/static/media/metamask.02e3ec2750d2107176f5.png",
     "static/media/walletconnect-logo.png": "/redeem-ui-minified/static/media/walletconnect-logo.26a8f490064b9e6ff4dc.png",
     "index.html": "/redeem-ui-minified/index.html"
   },
   "entrypoints": [
     "static/css/main.26122a4b.css",
-    "static/js/main.2d466261.js"
+    "static/js/main.3cb243db.js"
   ]
 }
